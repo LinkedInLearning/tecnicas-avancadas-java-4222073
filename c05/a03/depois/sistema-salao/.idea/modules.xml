@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agendador/agendador.iml" filepath="$PROJECT_DIR$/agendador/agendador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cliente/cliente.iml" filepath="$PROJECT_DIR$/cliente/cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-salao.iml" filepath="$PROJECT_DIR$/sistema-salao.iml" />
+    </modules>
+  </component>
+</project>
