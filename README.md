@@ -14,7 +14,7 @@ Este repositório contém ramificações, ou branches, para cada um dos vídeos 
 
 ## Ramificações 
 
-As ramificações são estruturadas para corresponder aos vídeos do curso. A convenção de nomenclatura é Capítulo#_Vídeo#. Por exemplo, a ramificação `02_03` corresponde ao terceiro vídeo do segundo capítulo. Algumas ramificações terão um status inicial e final, indicado com um i (início) e um f (fim). Portanto, a ramificação 02_03_i corresponde ao código de início do vídeo e a ramificação 02_03_f corresponde ao código de fim do vídeo. Por outro lado, a ramificação mestre corresponde ao código de conclusão do curso. 
+O projeto está estruturado em capítulos, onde cada pasta representa o número do capítulo e dentro dela existem as pastas com o número da aula correspondente e com o código nos cenários antes e depois da aula em questão. Utilize esses arquivos para acompanhar o curso em cada aula, caso necessário.
 
 ## Instalação 
 
