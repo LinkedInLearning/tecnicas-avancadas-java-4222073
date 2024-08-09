@@ -25,7 +25,7 @@ O projeto está estruturado em capítulos, onde cada pasta representa o número 
 Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/giuliana-bezerra). 
 
 [0]: # (Replace these placeholder URLs with actual course URLs) 
-[lil-course-url]: https://www.linkedin.com 
-[lil-thumbnail-url]: https:// 
+[lil-course-url]: https://www.linkedin.com/learning/tecnicas-avancadas-de-java/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQHURguOJUZn1g/learning-public-crop_675_1200/0/1722950045896?e=2147483647&v=beta&t=M4nL5Q16lxEG4-Qy0EJ3ENbhp5R2dnfu8gyB6QUTjfU
 
 [1]: # (End of BP-Instruction ###############################################################################################) 
